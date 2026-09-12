@@ -5,9 +5,7 @@ A simple **Hostel Management System** built using **C++** and **MySQL**. The app
 ---
 
 ## 📸 Screenshot
-
-<img width="620" height="487" alt="image" src="https://github.com/user-attachments/assets/f91aff87-212a-41f4-bacf-f9cc39a77c57" />
-
+<img width="638" height="483" alt="Image" src="https://github.com/user-attachments/assets/9e80bf61-3331-483e-a831-5481d21f12d9" />
 
 ---
 
